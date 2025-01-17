@@ -10,5 +10,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-16T14:36:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
