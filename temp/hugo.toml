@@ -1,0 +1,10 @@
+baseURL = 'https://bea.com/'
+languageCode = 'en-us'
+title = 'Bea Dot Com'
+theme = 'lynx'
+
+links = {
+	
+	{github = "https://github.com/LimeyShark" }
+
+}
