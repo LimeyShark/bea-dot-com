@@ -1,9 +1,0 @@
-baseURL = 'https://bea.com/'
-languageCode = 'en-us'
-title = 'Bea Dot Com'
-theme = 'lynx'
-
-[params.author]
-links = [
-   { github = "https://github.com/LimeyShark/bea-website" }
-]
