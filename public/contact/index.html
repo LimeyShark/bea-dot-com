@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width">
 <title>Contacts – Bea Dot Com</title>
 <link rel="alternate" type="application/rss+xml" title="rss" href="http://localhost:1313/contact/index.xml">
+<link rel="alternate" type="application/json" title="json" href="http://localhost:1313/contact/index.json">
 <meta name="view-transition" content="same-origin">
 <meta name="description" content="">
 <meta name="created" content="2025-01-16T14:36:41-0500">
@@ -59,7 +60,7 @@
 </head>
 
 <body class="list-page">
-<div class="page layout__page layout__sidebar-second">
+<div class="page layout__page">
 <header class="header layout__header">
 <a href="/" title="Home" rel="home" class="header__logo">
 <img src="/images/carcal.png" width="100" height="100" alt="Home" class="header__logo-image">
@@ -73,6 +74,9 @@
 
 <nav class="main-menu layout__navigation" aria-label="Main menu">
 <ul class="navbar">
+<li><a href="/home/"><span>Home</span></a></li>
+<li><a href="/coursework/"><span>Coursework</span></a></li>
+<li><a href="/contact/" aria-current="page"><span>Contact</span></a></li>
 </ul>
 </nav>
 <main class="main layout__main">
@@ -84,45 +88,22 @@
 
 <article class="list-view list-view--contact">
 <header>
-<h2 class="title mt--s"><a href="/contact/my-first-post/">Contact Me</a></h2>
+<h2 class="title mt--s"><a href="/contact/contact/"></a></h2>
 
 </header>
-<h2 id="hi-im-bea">Hi, I&rsquo;m Bea!</h2>
-<p>Here is my <a href="https://github.com/LimeyShark">GitHub</a></p>
-<p>Here is my <a href="https://www.linkedin.com/in/beatrice-stotz-08121a328/">LinkedIn</a></p>
-<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
-<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+<p>This is my <a href="https://github.com/LimeyShark">GitHub</a></p>
+<p>This is my <a href="https://www.linkedin.com/in/beatrice-stotz-08121a328/">LinkedIn</a></p>
 </article>
 
 
 </main>
 
 
-<aside class="sidebar layout__second-sidebar">
-<nav class="menu">
-<p class="title"><strong><a href="/contact/" aria-current="page">Contacts</a></strong></p>
-<ul>
-<li><a href="/contact/my-first-post/">Contact Me</a></li>
-</ul>
-</nav>
-<nav class="menu">
-<p class="title"><strong><a href="/coursework/">Courseworks</a></strong></p>
-<ul>
-<li><a href="/coursework/my-first-post/">Coursework</a></li>
-</ul>
-</nav>
-<nav class="menu">
-<p class="title"><strong><a href="/posts/">Posts</a></strong></p>
-<ul>
-<li><a href="/posts/my-first-post/">My First Post</a></li>
-</ul>
-</nav>
-</aside>
 <footer class="footer layout__footer mt--l">
-<p>Follow contact: <a rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/contact/index.xml">rss</a></p>
+<p>Follow contact: <a rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/contact/index.xml">rss</a> | <a rel="alternate" type="application/json" href="http://localhost:1313/contact/index.json">json</a></p>
 <p><span>© Bea Dot Com</span></p>
 
-
+<p>Powered by <a href="https://gohugo.io/">Hugo</a> and the <a href="https://github.com/frjo/hugo-theme-zen">Zen theme</a>.</p>
 </footer>
 
 </div>

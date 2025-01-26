@@ -2,17 +2,36 @@ baseurl: "https://BeaDotCom.com/"
 title: "Bea Dot Com"
 theme: "zen"
 languageCode: "en-US"
+rssLimit: 20
+
+outputs:
+  home: ["HTML","RSS", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+
 
 params:
-
-
+  poweredBy: true
   feedlinks: true
-  sidebar: true
+  sidebar: false
   mainSections:
-    - Main
+    - home
+
 
   #logo stuff
+  favicon: ""  
   logoPath: "images/carcal.png"
   logoHeight: 100
   logoWidth: 100
 
+contentDir: content/
+menu:
+  main:
+    - Name: "Home"
+      weight: -10
+      pageRef: "/home/"
+    - Name: "Coursework"
+      weight: 2
+      pageRef: "/coursework/"
+    - Name: "Contact"
+      weight: 10
+      pageRef: "/contact/"

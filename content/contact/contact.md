@@ -1,7 +1,7 @@
 +++
 date = '2025-01-16T14:36:41-05:00'
 draft = false
-title = 'Contact'
+title = ''
 +++
 
 This is my [GitHub](https://github.com/LimeyShark)
