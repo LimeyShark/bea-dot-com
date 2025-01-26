@@ -17,8 +17,11 @@ params:
     - home
 
 
+  favicon: "apple-touch-icon.png"
+  realfavicongenerator: true
+
+
   #logo stuff
-  favicon: ""  
   logoPath: "images/carcal.png"
   logoHeight: 100
   logoWidth: 100
