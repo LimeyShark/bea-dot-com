@@ -91,9 +91,6 @@
 :root {
   interpolate-size: allow-keywords; }
 
-@view-transition {
-  navigation: auto; }
-
 html {
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
