@@ -2,7 +2,6 @@ baseurl: "https://BeaDotCom.com/"
 title: "Bea Dot Com"
 theme: "zen"
 languageCode: "en-US"
-relativeURLs: true
 rssLimit: 20
 
 outputs:
