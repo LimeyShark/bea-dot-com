@@ -12,6 +12,8 @@ Visit the itch.io [page](https://limeyshark.itch.io/dire-date-night) to play!
 
 Created using [RenPy](https://www.renpy.org/). All programming and art by me, all dialogue written with the help of my girlfriend.
 
+{{< figure src="images/ddnSC1.png" caption="A nice flower caption." alt="Flower 1" >}}
+
 
 ![menu screenshot](/static/images/ddnSC1.png)
 *Dire Date Night main menu*
