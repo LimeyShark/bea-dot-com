@@ -5,22 +5,29 @@
     <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Bea Dot Com</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
+    <language>en-US</language>
     <lastBuildDate>Thu, 16 Jan 2025 14:36:41 -0500</lastBuildDate>
       <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title></title>
       <link>http://localhost:1313/pages/contact/</link>
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
       <guid>http://localhost:1313/pages/contact/</guid>
       <description>&lt;p&gt;This is my &lt;a href=&#34;https://github.com/LimeyShark&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my &lt;a href=&#34;https://www.linkedin.com/in/beatrice-stotz-08121a328/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
-      <title>Coursework</title>
+      <title></title>
       <link>http://localhost:1313/pages/coursework/</link>
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
       <guid>http://localhost:1313/pages/coursework/</guid>
       <description>&lt;p&gt;I have taken Data Structures and Advanced Programming!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/diredatenight/</link>
+      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
+      <guid>http://localhost:1313/pages/diredatenight/</guid>
+      <description>&lt;h2 id=&#34;dire-date-night-demo-is-out-now&#34;&gt;Dire Date Night demo is out now!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;You&amp;rsquo;re 15 minutes late to a blind date with a girl that you have absolutely no chemistry with.  Also she&amp;rsquo;s secretly a werewolf.  Navigate awkward conversations and touchy subjects with your stone-faced date, and if you&amp;rsquo;re lucky you might be able to salvage the night&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://limeyshark.itch.io/dire-date-night&#34;&gt;itch.io page&lt;/a&gt; to play!&lt;/p&gt;&#xA;&lt;p&gt;Created using &lt;a href=&#34;https://www.renpy.org/&#34;&gt;RenPy&lt;/a&gt;. All programming and art by me, all dialogue written with the help of my girlfriend.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

@@ -31,10 +31,13 @@ menu:
   main:
     - Name: "Home"
       weight: -10
-      pageRef: "/home/"
+      pageRef: "/"
     - Name: "Coursework"
       weight: 2
-      pageRef: "/coursework/"
+      pageRef: "/pages/coursework.md"
+    - Name: "Dire Date Night"
+      weight: 9
+      pageRef: "/pages/diredatenight.md"
     - Name: "Contact"
       weight: 10
-      pageRef: "/contact/"
+      pageRef: "/pages/contact.md"
