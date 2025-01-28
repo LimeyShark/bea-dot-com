@@ -65,7 +65,7 @@
   --fw-normal: 400;
   --fw-light: 300;
   --fw-lighter: 200;
-  --ff-body: ui-serif, Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+  --ff-body: ui-sans-serif, system-ui, sans-serif;
   --ff-headings: ui-sans-serif, system-ui, sans-serif;
   --ff-alt: system-ui, sans-serif;
   --ff-monospace: ui-monospace, Cascadia Code, Source Code Pro, Menlo, Consolas, DejaVu Sans Mono, monospace;
