@@ -13,7 +13,7 @@ Visit the itch.io [page](https://limeyshark.itch.io/dire-date-night) to play!
 Created using [RenPy](https://www.renpy.org/). All programming and art by me, all dialogue written with the help of my girlfriend.
 
 
-![menu screenshot](/images/ddnSC1.png)
+![menu screenshot](/static/images/ddnSC1.png)
 *Dire Date Night main menu*
 
 
