@@ -10,17 +10,13 @@ draft = false
 
 Visit the itch.io [page](https://limeyshark.itch.io/dire-date-night) to play!
 
-Created using [RenPy](https://www.renpy.org/). All programming and art by me, all dialogue written with the help of my girlfriend.
+Created using [RenPy](https://www.renpy.org/). All programming and art by me, dialogue written with the help of my girlfriend.
 
-{{< figure src="images/ddnSC1.png" caption="A nice flower caption." alt="Flower 1" >}}
-
-
-![menu screenshot](/static/images/ddnSC1.png)
-*Dire Date Night main menu*
+{{< figure src="images/ddnSC1.png" caption="*Dire Date Night main menu*" alt="menu screenshot" >}}
 
 
-![timed dialogue screenshot](/ddnSC2.png)
-*Timed dialogue options*
+{{< figure src="images/ddnSC2.png" caption="*Timed dialogue options*" alt="timed dialogue screenshot" >}}
 
-![avery screenshot](/images/ddnSC3.png)
-*Try not to scare off your date*
+
+{{< figure src="images/ddnSC3.png" caption="*Try not to scare off your date*" alt="avery screenshot" >}}
+
