@@ -17,7 +17,7 @@ Created using [RenPy](https://www.renpy.org/). All programming and art by me, al
 *Dire Date Night main menu*
 
 
-![timed dialogue screenshot](/images/ddnSC2.png)
+![timed dialogue screenshot](/ddnSC2.png)
 *Timed dialogue options*
 
 ![avery screenshot](/images/ddnSC3.png)
