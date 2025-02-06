@@ -22,7 +22,7 @@
             "date_modified": "2025-01-16T14:36:41-05:00",
             "id": "http://localhost:1313/pages/contact/",
             "url": "http://localhost:1313/pages/contact/",
-            "content_html": "\u003cp\u003eThis is my \u003ca href=\"https://github.com/LimeyShark\"\u003eGitHub\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThis is my \u003ca href=\"https://www.linkedin.com/in/beatrice-stotz-08121a328/\"\u003eLinkedIn\u003c/a\u003e\u003c/p\u003e\n"
+            "content_html": "\u003cp\u003eThis is my \u003ca href=\"https://github.com/LimeyShark\"\u003eGitHub\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThis is my \u003ca href=\"https://www.linkedin.com/in/beatrice-stotz-08121a328/\"\u003eLinkedIn\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThis is my \u003ca href=\"/BeatriceStotzResume2025.pdf\"\u003eResume\u003c/a\u003e\u003c/p\u003e\n"
         },
         {
             "title": "",

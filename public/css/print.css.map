@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Users/johnstotz/quickstart",
+	"sourceRoot": "/Users/johnstotz/website",
 	"sources": [
 		"assets/sass/print.scss",
 		"assets/sass/_init.scss",

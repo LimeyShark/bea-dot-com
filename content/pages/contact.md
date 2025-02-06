@@ -7,3 +7,5 @@ title = ''
 This is my [GitHub](https://github.com/LimeyShark)
 
 This is my [LinkedIn](https://www.linkedin.com/in/beatrice-stotz-08121a328/)
+
+This is my [Resume](/BeatriceStotzResume2025.pdf)

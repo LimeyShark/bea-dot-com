@@ -39,8 +39,11 @@ menu:
       weight: 2
       pageRef: "/pages/coursework.md"
     - Name: "Dire Date Night"
-      weight: 9
+      weight: 8
       pageRef: "/pages/diredatenight.md"
+    - Name: "Resume"
+      weight: 9
+      url: "files/resume.pdf"
     - Name: "Contact"
       weight: 10
       pageRef: "/pages/contact.md"
