@@ -15,8 +15,9 @@ I am a Sophomore at Columbia University<br>
 I am majoring in Computer Science<br>
 Welcome to Bea Dot Com!<br>
 </p>
-<img src="images/circleHeadshot.png" alt="Bea Headshot" width="300" height="300" style="position: absolute; right:250px; top:200px;" >
-<img src="../files/circleHeadshot.png" alt="Bea Headshot" width="300" height="300" style="position: absolute; right:250px; top:200px;" >
+<img src="static/images/circleHeadshot.png" alt="Static" width="300" height="300" style="position: absolute; right:250px; top:200px;" >
+<img src="images/circleHeadshot.png" alt= "images" width="300" height="300" style="position: absolute; right:250px; top:200px;" >
+<img src="../files/circleHeadshot.png" alt="files" width="300" height="300" style="position: absolute; right:250px; top:200px;" >
 <!-- <img src="../files/circleHeadshot.png" alt="Bea Headshot" width="300" height="300" style="transform: translate(720px, -200px);" > -->
 
 
