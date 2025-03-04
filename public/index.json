@@ -1,17 +1,12 @@
 
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Introduction on Bea Dot Com",
-    "description": "Recent content in Introduction on Bea Dot Com",
+    "title": "Bea Dot Com",
+    "description": "Recent content on Bea Dot Com",
     "home_page_url": "http://localhost:1313/",
     "feed_url": "http://localhost:1313/index.json",
-    "language": "en",
+    "language": "en-US",
     "favicon": "http://localhost:1313/apple-touch-icon.png",
-    "authors": [
-        {
-            "name": "Bea Stotz"
-        }
-    ],
     "items": [
         {
             "title": "",

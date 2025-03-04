@@ -5,13 +5,8 @@
     "description": "Recent content in Homes on Bea Dot Com",
     "home_page_url": "http://localhost:1313/",
     "feed_url": "http://localhost:1313/home/index.json",
-    "language": "en",
+    "language": "en-US",
     "favicon": "http://localhost:1313/apple-touch-icon.png",
-    "authors": [
-        {
-            "name": "Bea Stotz"
-        }
-    ],
     "items": [
         {
             "title": "",
@@ -19,7 +14,7 @@
             "date_modified": "2025-01-16T14:36:41-05:00",
             "id": "http://localhost:1313/home/intro/",
             "url": "http://localhost:1313/home/intro/",
-            "content_html": "\u003c!-- \u003ch1 style=\"font-size:40px; text-align: center;\"\u003eBeatrice Stotz\u003c/h1\u003e --\u003e\n\u003cimg src=\"images/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"float:right;\" \u003e\n\u003ch1 style=\"font-size:48px; \"\u003eBeatrice Stotz\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \"\u003e\nMy name is Beatrice\u003cbr\u003e\nI am a Sophomore at Columbia University\u003cbr\u003e\nI am majoring in Computer Science\u003cbr\u003e\nWelcome to Bea Dot Com!\u003cbr\u003e\n\u003c/p\u003e\n\u003c!-- \u003cimg src=\"images/circleHeadshot.png\" alt= \"images\" width=\"300\" height=\"300\" style=\"position: absolute; right:250px; top:200px;\" \u003e --\u003e \u003c!-- pulls image from static/images --\u003e \n\u003c!-- \u003cimg src=\"../files/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"transform: translate(720px, -200px);\" \u003e --\u003e\n\u003c!-- \u003cdiv style=\"text-align: center;\"\u003e\n\u003cp\u003etest\n\u003cem\u003eemphasized test\u003c/em\u003e\u003c/p\u003e\n\u003c/div\u003e --\u003e\n\u003cp\u003eThank you for visiting Bea Dot Com\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif\" alt=\"Cat Pacifier\"\u003e\u003c/p\u003e\n"
+            "content_html": "\u003c!-- \u003ch1 style=\"font-size:40px; text-align: center;\"\u003eBeatrice Stotz\u003c/h1\u003e --\u003e\n\u003ch1 style=\"font-size:48px; \"\u003eBeatrice Stotz\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \"\u003e\n\u003cimg src=\"images/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"float:right;\" \u003e\nMy name is Beatrice\u003cbr\u003e\nI am a Sophomore at Columbia University\u003cbr\u003e\nI am majoring in Computer Science\u003cbr\u003e\nWelcome to Bea Dot Com!\u003cbr\u003e\n\u003c/p\u003e\n\u003c!-- \u003cimg src=\"images/circleHeadshot.png\" alt= \"images\" width=\"300\" height=\"300\" style=\"position: absolute; right:250px; top:200px;\" \u003e --\u003e \u003c!-- pulls image from static/images --\u003e \n\u003c!-- \u003cimg src=\"../files/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"transform: translate(720px, -200px);\" \u003e --\u003e\n\u003c!-- \u003cdiv style=\"text-align: center;\"\u003e\n\u003cp\u003etest\n\u003cem\u003eemphasized test\u003c/em\u003e\u003c/p\u003e\n\u003c/div\u003e --\u003e\n\u003cp\u003eThank you for visiting Bea Dot Com\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif\" alt=\"Cat Pacifier\"\u003e\u003c/p\u003e\n"
         }
         ]
 }

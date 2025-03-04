@@ -20,6 +20,7 @@ params:
   feedlinks: true
   sidebar: false
   mainSections:
+    - home
 
 
   favicon: "apple-touch-icon.png"
@@ -30,25 +31,6 @@ params:
   logoPath: "images/carcal.png"
   logoHeight: 100
   logoWidth: 100
-
-
-
-languages:
-  en:
-    disabled: false
-    languageCode: "en"
-    langauge name: "English"
-    weight: 1
-    title: "Bea Dot Com"
-    params:
-      logo: "images/beaheadshot.png"
-      displayName: "EN"
-
-      author:
-        name: "Bea Stotz"
-        email: "beatricestotz@gmail.com"
-        image: "image/beaheadshot.png"
-
 
 contentDir: content/
 menu:

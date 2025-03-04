@@ -1,5 +1,5 @@
 :root {
-  --color-brand: #fff;
+  --color-brand: #666666;
   --color-brand-alt: #999999;
   --color-brand-light: #cccccc;
   --color-brand-dark: #333333;
@@ -8,13 +8,13 @@
   --color-text-meta: #666666;
   --color-link: #333333;
   --color-link-visited: #333333;
-  --color-link-hover: #fff;
+  --color-link-hover: #666666;
   --color-link-active: #c00;
   --color-link-inverted: #fff;
   --color-link-visited-inverted: #fff;
   --color-link-hover-inverted: #fff;
   --color-link-active-inverted: #c00;
-  --color-border: #fff;
+  --color-border: #666666;
   --color-border-light: #cccccc;
   --color-border-dark: #333333;
   --color-autocomplete: #000;
@@ -25,9 +25,9 @@
   --color-header-bg: #fff;
   --color-footer-bg: #fff;
   --color-backdrop: #eeeeee;
-  --color-mobile-menu: #fff;
+  --color-mobile-menu: #666666;
   --color-mobile-menu-cover: rgba(0, 0, 0, 0.2);
-  --color-button: #fff;
+  --color-button: #666666;
   --color-button-hover: #333333;
   --color-button-text: #fff;
   --color-button-text-hover: #fff;
