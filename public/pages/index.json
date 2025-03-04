@@ -5,8 +5,13 @@
     "description": "Recent content in Pages on Bea Dot Com",
     "home_page_url": "http://localhost:1313/",
     "feed_url": "http://localhost:1313/pages/index.json",
-    "language": "en-US",
+    "language": "en",
     "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Bea Stotz"
+        }
+    ],
     "items": [
         {
             "title": "",

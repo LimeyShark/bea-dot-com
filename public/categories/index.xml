@@ -5,7 +5,9 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Bea Dot Com</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
+    <language>en</language>
+    <managingEditor>beatricestotz@gmail.com (Bea Stotz)</managingEditor>
+    <webMaster>beatricestotz@gmail.com (Bea Stotz)</webMaster>
       <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
