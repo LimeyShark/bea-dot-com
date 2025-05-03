@@ -10,30 +10,23 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/home/intro/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
-      <guid>http://localhost:1313/home/intro/</guid>
-      <description>&lt;!-- &lt;h1 style=&#34;font-size:40px; text-align: center;&#34;&gt;Beatrice Stotz&lt;/h1&gt; --&gt;&#xA;&lt;img src=&#34;images/circleHeadshot.png&#34; alt=&#34;Bea Headshot&#34; width=&#34;300&#34; height=&#34;300&#34; style=&#34;float:right;&#34; &gt;&#xA;&lt;h1 style=&#34;font-size:48px; &#34;&gt;Beatrice Stotz&lt;/h1&gt;&#xA;&lt;p style=&#34;font-size:20px; &#34;&gt;&#xA;My name is Beatrice&lt;br&gt;&#xA;I am a Sophomore at Columbia University&lt;br&gt;&#xA;I am majoring in Computer Science&lt;br&gt;&#xA;Welcome to Bea Dot Com!&lt;br&gt;&#xA;&lt;/p&gt;&#xA;&lt;!-- &lt;img src=&#34;images/circleHeadshot.png&#34; alt= &#34;images&#34; width=&#34;300&#34; height=&#34;300&#34; style=&#34;position: absolute; right:250px; top:200px;&#34; &gt; --&gt; &lt;!-- pulls image from static/images --&gt; &#xA;&lt;!-- &lt;img src=&#34;../files/circleHeadshot.png&#34; alt=&#34;Bea Headshot&#34; width=&#34;300&#34; height=&#34;300&#34; style=&#34;transform: translate(720px, -200px);&#34; &gt; --&gt;&#xA;&lt;!-- &lt;div style=&#34;text-align: center;&#34;&gt;&#xA;&lt;p&gt;test&#xA;&lt;em&gt;emphasized test&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/div&gt; --&gt;&#xA;&lt;p&gt;Thank you for visiting Bea Dot Com&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif&#34; alt=&#34;Cat Pacifier&#34;&gt;&lt;/p&gt;&#xA;</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;You can reach me at &lt;a href=&#34;mailto:beatricestotz@gmail.com&#34;&gt;beatricestotz@gmail.com&lt;/a&gt;&#xA;or at &lt;a href=&#34;tel:5719699951&#34;&gt;571-969-9951&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Links:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/LimeyShark&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/beatrice-stotz-08121a328/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/bea.stotz/&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!--[Resume](/BeatriceStotzResume2025.pdf)--&gt;&#xA;&lt;!--![Cat Pacifier](https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif)--&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/contact/</link>
+      <link>http://localhost:1313/coursework/</link>
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
-      <guid>http://localhost:1313/pages/contact/</guid>
-      <description>&lt;p&gt;This is my &lt;a href=&#34;https://github.com/LimeyShark&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my &lt;a href=&#34;https://www.linkedin.com/in/beatrice-stotz-08121a328/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my &lt;a href=&#34;http://localhost:1313/BeatriceStotzResume2025.pdf&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <guid>http://localhost:1313/coursework/</guid>
+      <description>&lt;h1 style=&#34;font-size:40px; &#34;&gt;Advanced Systems Programming&lt;/h1&gt;&#xA;&lt;p style=&#34;font-size:20px; &#34; width= &#34;10&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implementing Unix libraries and tools (malloc, grep, debugger, linker)&lt;/li&gt; &#xA;&lt;li&gt;Advanced I/O&lt;/li&gt; &#xA;&lt;li&gt;Containers &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 style=&#34;font-size:40px; &#34;&gt;Advanced Programming&lt;/h1&gt;&#xA;&lt;p style=&#34;font-size:20px; &#34; width= &#34;10&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction to C, Unix fundamentals, and networking.&lt;/li&gt;&#xA;&lt;li&gt;Coded a database lookup server as part of the class&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 style=&#34;font-size:40px; &#34;&gt;Data Structures in Java&lt;/h1&gt;&#xA;&lt;p style=&#34;font-size:20px; &#34; width= &#34;10&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction to higher level data structures in Java (hash maps, trees, linked lists, etc)&lt;/li&gt;&#xA;&lt;li&gt;Overview and implementation of sorting algorithms&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/coursework/</link>
+      <link>http://localhost:1313/diredatenight/</link>
       <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
-      <guid>http://localhost:1313/pages/coursework/</guid>
-      <description>&lt;p&gt;I have taken Data Structures and Advanced Programming!&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/pages/diredatenight/</link>
-      <pubDate>Thu, 16 Jan 2025 14:36:41 -0500</pubDate>
-      <guid>http://localhost:1313/pages/diredatenight/</guid>
+      <guid>http://localhost:1313/diredatenight/</guid>
       <description>&lt;h2 id=&#34;dire-date-night-demo-is-out-now&#34;&gt;Dire Date Night demo is out now!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;You&amp;rsquo;re 15 minutes late to a blind date with a girl that you have absolutely no chemistry with.  Also she&amp;rsquo;s secretly a werewolf.  Navigate awkward conversations and touchy subjects with your stone-faced date, and if you&amp;rsquo;re lucky you might be able to salvage the night&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit the itch.io &lt;a href=&#34;https://limeyshark.itch.io/dire-date-night&#34;&gt;page&lt;/a&gt; to play!&lt;/p&gt;&#xA;&lt;p&gt;Created using &lt;a href=&#34;https://www.renpy.org/&#34;&gt;RenPy&lt;/a&gt;. All programming and art by me, dialogue written with the help of my girlfriend.&lt;/p&gt;&#xA;&lt;figure class=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/ddnSC1.png&#34; loading=&#34;lazy&#34; alt=&#34;menu screenshot&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;&lt;em&gt;Dire Date Night main menu&lt;/em&gt;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/ddnSC2.png&#34; loading=&#34;lazy&#34; alt=&#34;timed dialogue screenshot&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;&lt;em&gt;Timed dialogue options&lt;/em&gt;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/ddnSC3.png&#34; loading=&#34;lazy&#34; alt=&#34;avery screenshot&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;&lt;em&gt;Try not to scare off your date&lt;/em&gt;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;</description>
     </item>
   </channel>
