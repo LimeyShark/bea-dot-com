@@ -12,32 +12,24 @@
             "title": "",
             "date_published": "2025-01-16T14:36:41-05:00",
             "date_modified": "2025-01-16T14:36:41-05:00",
-            "id": "http://localhost:1313/home/intro/",
-            "url": "http://localhost:1313/home/intro/",
-            "content_html": "\u003c!-- \u003ch1 style=\"font-size:40px; text-align: center;\"\u003eBeatrice Stotz\u003c/h1\u003e --\u003e\n\u003cimg src=\"images/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"float:right;\" \u003e\n\u003ch1 style=\"font-size:48px; \"\u003eBeatrice Stotz\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \"\u003e\nMy name is Beatrice\u003cbr\u003e\nI am a Sophomore at Columbia University\u003cbr\u003e\nI am majoring in Computer Science\u003cbr\u003e\nWelcome to Bea Dot Com!\u003cbr\u003e\n\u003c/p\u003e\n\u003c!-- \u003cimg src=\"images/circleHeadshot.png\" alt= \"images\" width=\"300\" height=\"300\" style=\"position: absolute; right:250px; top:200px;\" \u003e --\u003e \u003c!-- pulls image from static/images --\u003e \n\u003c!-- \u003cimg src=\"../files/circleHeadshot.png\" alt=\"Bea Headshot\" width=\"300\" height=\"300\" style=\"transform: translate(720px, -200px);\" \u003e --\u003e\n\u003c!-- \u003cdiv style=\"text-align: center;\"\u003e\n\u003cp\u003etest\n\u003cem\u003eemphasized test\u003c/em\u003e\u003c/p\u003e\n\u003c/div\u003e --\u003e\n\u003cp\u003eThank you for visiting Bea Dot Com\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif\" alt=\"Cat Pacifier\"\u003e\u003c/p\u003e\n"
+            "id": "http://localhost:1313/contact/",
+            "url": "http://localhost:1313/contact/",
+            "content_html": "\u003cp\u003eYou can reach me at \u003ca href=\"mailto:beatricestotz@gmail.com\"\u003ebeatricestotz@gmail.com\u003c/a\u003e\nor at \u003ca href=\"tel:5719699951\"\u003e571-969-9951\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eLinks:\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://github.com/LimeyShark\"\u003eGitHub\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.linkedin.com/in/beatrice-stotz-08121a328/\"\u003eLinkedIn\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.instagram.com/bea.stotz/\"\u003eInstagram\u003c/a\u003e\u003c/p\u003e\n\u003c!--[Resume](/BeatriceStotzResume2025.pdf)--\u003e\n\u003c!--![Cat Pacifier](https://media1.tenor.com/m/59UA_u0IglwAAAAd/cat-pacifier.gif)--\u003e\n"
         },
         {
             "title": "",
             "date_published": "2025-01-16T14:36:41-05:00",
             "date_modified": "2025-01-16T14:36:41-05:00",
-            "id": "http://localhost:1313/pages/contact/",
-            "url": "http://localhost:1313/pages/contact/",
-            "content_html": "\u003cp\u003eThis is my \u003ca href=\"https://github.com/LimeyShark\"\u003eGitHub\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThis is my \u003ca href=\"https://www.linkedin.com/in/beatrice-stotz-08121a328/\"\u003eLinkedIn\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThis is my \u003ca href=\"/BeatriceStotzResume2025.pdf\"\u003eResume\u003c/a\u003e\u003c/p\u003e\n"
+            "id": "http://localhost:1313/coursework/",
+            "url": "http://localhost:1313/coursework/",
+            "content_html": "\u003ch1 style=\"font-size:40px; \"\u003eAdvanced Systems Programming\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \" width= \"10\"\u003e\n\u003cul\u003e\n\u003cli\u003eImplementing Unix libraries and tools (malloc, grep, debugger, linker)\u003c/li\u003e \n\u003cli\u003eAdvanced I/O\u003c/li\u003e \n\u003cli\u003eContainers \u003c/li\u003e\n\u003c/ul\u003e\n\u003c/p\u003e\n\u003ch1 style=\"font-size:40px; \"\u003eAdvanced Programming\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \" width= \"10\"\u003e\n\u003cul\u003e\n\u003cli\u003eIntroduction to C, Unix fundamentals, and networking.\u003c/li\u003e\n\u003cli\u003eCoded a database lookup server as part of the class\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/p\u003e\n\u003ch1 style=\"font-size:40px; \"\u003eData Structures in Java\u003c/h1\u003e\n\u003cp style=\"font-size:20px; \" width= \"10\"\u003e\n\u003cul\u003e\n\u003cli\u003eIntroduction to higher level data structures in Java (hash maps, trees, linked lists, etc)\u003c/li\u003e\n\u003cli\u003eOverview and implementation of sorting algorithms\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/p\u003e\n"
         },
         {
             "title": "",
             "date_published": "2025-01-16T14:36:41-05:00",
             "date_modified": "2025-01-16T14:36:41-05:00",
-            "id": "http://localhost:1313/pages/coursework/",
-            "url": "http://localhost:1313/pages/coursework/",
-            "content_html": "\u003cp\u003eI have taken Data Structures and Advanced Programming!\u003c/p\u003e\n"
-        },
-        {
-            "title": "",
-            "date_published": "2025-01-16T14:36:41-05:00",
-            "date_modified": "2025-01-16T14:36:41-05:00",
-            "id": "http://localhost:1313/pages/diredatenight/",
-            "url": "http://localhost:1313/pages/diredatenight/",
+            "id": "http://localhost:1313/diredatenight/",
+            "url": "http://localhost:1313/diredatenight/",
             "content_html": "\u003ch2 id=\"dire-date-night-demo-is-out-now\"\u003eDire Date Night demo is out now!\u003c/h2\u003e\n\u003cp\u003e\u003cem\u003eYou\u0026rsquo;re 15 minutes late to a blind date with a girl that you have absolutely no chemistry with.  Also she\u0026rsquo;s secretly a werewolf.  Navigate awkward conversations and touchy subjects with your stone-faced date, and if you\u0026rsquo;re lucky you might be able to salvage the night\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eVisit the itch.io \u003ca href=\"https://limeyshark.itch.io/dire-date-night\"\u003epage\u003c/a\u003e to play!\u003c/p\u003e\n\u003cp\u003eCreated using \u003ca href=\"https://www.renpy.org/\"\u003eRenPy\u003c/a\u003e. All programming and art by me, dialogue written with the help of my girlfriend.\u003c/p\u003e\n\u003cfigure class=\"image\"\u003e\n\u003cimg src=\"/images/ddnSC1.png\" loading=\"lazy\" alt=\"menu screenshot\"\u003e\n\u003cfigcaption\u003e\n\u003cem\u003eDire Date Night main menu\u003c/em\u003e\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n\u003cfigure class=\"image\"\u003e\n\u003cimg src=\"/images/ddnSC2.png\" loading=\"lazy\" alt=\"timed dialogue screenshot\"\u003e\n\u003cfigcaption\u003e\n\u003cem\u003eTimed dialogue options\u003c/em\u003e\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n\u003cfigure class=\"image\"\u003e\n\u003cimg src=\"/images/ddnSC3.png\" loading=\"lazy\" alt=\"avery screenshot\"\u003e\n\u003cfigcaption\u003e\n\u003cem\u003eTry not to scare off your date\u003c/em\u003e\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n"
         }
         ]
