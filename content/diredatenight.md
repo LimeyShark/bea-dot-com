@@ -4,7 +4,7 @@ draft = false
 #title = "Dire Date Night demo is out now!"
 +++
 
-## Dire Date Night demo is out now!
+<h1 style="font-size:30px; ">Dire Date Night demo out now!</h1>
 
 *You're 15 minutes late to a blind date with a girl that you have absolutely no chemistry with.  Also she's secretly a werewolf.  Navigate awkward conversations and touchy subjects with your stone-faced date, and if you're lucky you might be able to salvage the night*
 
